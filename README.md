@@ -14,13 +14,17 @@
         - 0.4237
 
     - Data Augmentation
+    
         ![](./static/data_augmentation.png)
     
     - Mean IOU in valid set
         - Max
+        
             ![](./static/max_miou.png)
         - Min
+        
             ![](./static/min_miou.png)
         - Average
+        
             ![](./static/average_miou.png)
 
